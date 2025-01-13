@@ -1,5 +1,5 @@
 # Characters of House of Pleasure
-<figure><img src=".gitbook/assets/seraphina.png" alt="Madame Seraphina Moreau"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/seraphina.jfif" alt="Madame Seraphina Moreau"><figcaption></figcaption></figure>
 
 ## Madame Seraphina Moreau
 A regal older woman with streaks of silver in her dark, wavy hair. She wears an elegant burgundy silk robe with intricate lace details, her piercing eyes and composed demeanor commanding attention.
