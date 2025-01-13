@@ -2,4 +2,4 @@ root: ./
 structure:
   House Of Pleasure: Readme.md
   summary: SUMMARY.md
-cover: .gitbook\assets\header.jpg
+cover: .gitbook\assets\Header.jpg

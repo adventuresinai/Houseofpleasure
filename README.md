@@ -1,6 +1,6 @@
 ---
 description: Welcome to House of Pleasure
-cover: .gitbook/assets/header.jpg
+cover: .gitbook/assets/Header.jpg
 coverY: 0
 layout: landing
 ---
