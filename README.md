@@ -1,5 +1,8 @@
 # The House Of Pleasure
-
+---
+cover: .gitbook/assets/header.jpg
+coverY: 0
+---
 Welcome to House of Pleasure, an immersive storytelling experience that blends advanced AI with rich, seductive narratives. Set in a luxurious, opulent brothel, this project invites users to interact with a cast of diverse and alluring characters, each with unique personalities, desires, and secrets.
 
 The journey begins with simple conversations and gradually unlocks deeper layers of engagement, including:
