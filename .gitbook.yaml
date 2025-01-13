@@ -1,4 +1,5 @@
 root: ./
 structure:
-  readme: README.md
+  House Of Pleasure: README.md
   summary: SUMMARY.md
+cover: .gitbook/assets/header.jpg
