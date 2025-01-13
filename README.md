@@ -2,7 +2,20 @@
 #description: Welcome to House of Pleasure
 cover: .gitbook/assets/Header.jpg
 coverY: 0
-layout: landing
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # The House Of Pleasure
