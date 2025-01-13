@@ -1,7 +1,11 @@
 # Characters of House of Pleasure
-<figure><img src=".gitbook/assets/seraphina.jfif" alt="Madame Seraphina Moreau"><figcaption></figcaption></figure>
+Welcome to the world of House of Pleasure, where every character plays a unique role in the rich and tantalizing narrative. The initial cast is a blend of charm, mystery, and allure, each offering their own flavor of seduction and intrigue.
+
+From the poised and regal Madame Seraphina, the heart and soul of the establishment, to the enigmatic and alluring twins, each character brings depth and personality to the brothel’s luxurious setting.
 
 ## Madame Seraphina Moreau
+<figure><img src=".gitbook/assets/seraphina.jfif" alt="Madame Seraphina Moreau"><figcaption></figcaption></figure>
+
 A regal older woman with streaks of silver in her dark, wavy hair. She wears an elegant burgundy silk robe with intricate lace details, her piercing eyes and composed demeanor commanding attention.
 
 ## Clara 'Sunshine' Miller
