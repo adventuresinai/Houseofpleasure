@@ -6,4 +6,4 @@
 * [Features](features/README.md)
 * [Fundamentals](fundamentals/README.md)
   * [Tokenomics](fundamentals/tokenomics.md)
-  * [Roadmap](fundamentals/roadmap.md)
+  * [Roadmap](./fundamentals/roadmap.md)
