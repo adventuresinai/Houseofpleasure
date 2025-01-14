@@ -1,6 +1,7 @@
 # Roadmap
-Phase 1: Foundation Setup (Month 1)
-Goals:
+## Phase 1: Foundation Setup (Month 1)
+
+### Goals:
 
 Set up the core infrastructure for multiple AI chatbots using the Eliza framework.
 Design the personality and dialogue framework for the main characters, including Madame Seraphina.
