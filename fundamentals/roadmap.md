@@ -16,8 +16,9 @@ Create tiers of interaction based on user engagement or token holding.
 Key Features:
 
 Lounge access for basic users.
-Premium token holders gain access to deeper conversations, the ability to ask for personalised images of their character and unlockadditional characters (e.g., introducing the twins).
+Premium token holders gain access to deeper conversations, the ability to ask for personalised images of their character and unlock additional characters (e.g., introducing the twins).
 Secure backend for token verification.
+Gifts
 Phase 3: Introducing the Twins and Dual Chat (Month 4)
 Goals:
 
